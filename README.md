@@ -16,4 +16,4 @@
 
 
 
-Sou apaixonado por tecnologia e desenvolvimento. Meu primeiro contato com a programação foi em 2020, ainda quando estava cursando gestão da tecnologia da informação. Comecei a estudar programação em Novembro de 2021. E de lá pra cá sempre busco conhecimento, sendo mais apaixonado por front-end, mas também com habilidades do back-end.
+Sou apaixonado por tecnologia e desenvolvimento. Meu primeiro contato com a programação foi em 2020, ainda quando estava cursando gestão da tecnologia da informação. Comecei a estudar programação em Novembro de 2021, e de lá para cá sempre busco conhecimento, sendo mais apaixonado por front-end, mas também com habilidades no back-end.
